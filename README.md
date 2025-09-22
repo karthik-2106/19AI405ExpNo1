@@ -1,7 +1,7 @@
 ## ExpNo 1 : Developing AI Agent with PEAS Description
 
-**Name :** RAJRAMAN V  
-**Register Number :** 212223110038  
+**Name :** KARTHIKEYAN M  
+**Register Number :** 212223110020  
 
 
 ## AIM:
